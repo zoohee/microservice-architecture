@@ -10,6 +10,7 @@
         <module name="apigateway" />
         <module name="discoveryservice" />
         <module name="first-service" />
+        <module name="user-service" />
         <module name="second-service" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="discoveryservice" options="-parameters" />
       <module name="first-service" options="-parameters" />
       <module name="second-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
     </option>
   </component>
 </project>
